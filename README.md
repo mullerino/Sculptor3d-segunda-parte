@@ -10,12 +10,10 @@ Não serão criados objetos dessa nova classe, mas ela agora será a base para v
 
 Inicialmente, o usuário deve criar um arquivo .txt que vai conter os processos necessários para criar seu desenho 3d, 
 
-Ex:
-dim 30 30 20
-
-putvoxel 3 4 5 1.0 1.0 0.0 0.5
-
-...
+Ex: /n
+dim 30 30 20 /n
+putvoxel 3 4 5 1.0 1.0 0.0 0.5 /n
+.../n
 
 O nome do arquivo que contém esses processos deve ser fornecido no código main na linha 25. 
 
